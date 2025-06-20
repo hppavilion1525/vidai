@@ -14,7 +14,7 @@ const HRManagement = () => {
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">
             HR Management
           </h1>
-          <p className="text-xl text-white-300 max-w-2xl mx-auto">
+          <p className="text-xl text-white max-w-2xl mx-auto">
             Post jobs and find talent specifically for startups
           </p>
         </div>

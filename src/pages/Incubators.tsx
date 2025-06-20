@@ -14,7 +14,7 @@ const Incubators = () => {
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">
             Incubators in India
           </h1>
-          <p className="text-xl text-white-300 max-w-2xl mx-auto">
+          <p className="text-xl text-white max-w-2xl mx-auto">
             Find and apply to startup incubators across India
           </p>
         </div>

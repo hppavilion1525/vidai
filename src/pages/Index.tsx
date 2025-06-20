@@ -143,7 +143,7 @@ const Index = () => {
                 Where Startups Sprout
               </span>
             </h1>
-            <p className="text-xl text-white-300 mb-8 max-w-2xl mx-auto">
+            <p className="text-xl text-white mb-8 max-w-2xl mx-auto">
               Your complete ecosystem for startup success. From ideation to scale-up, 
               access everything you need to grow your startup in India.
             </p>

@@ -11,10 +11,10 @@ const LegalSupport = () => {
           <div className="w-16 h-16 bg-gradient-to-br from-cyan-500 to-cyan-600 rounded-xl flex items-center justify-center mx-auto mb-4">
             <FileText className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl sm:text-4xl font-bold text-white-900 mb-4">
+          <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">
             IP & Legal Support
           </h1>
-          <p className="text-xl text-white-600 max-w-2xl mx-auto">
+          <p className="text-xl text-white max-w-2xl mx-auto">
             Access legal templates and connect with partner law firms
           </p>
         </div>
