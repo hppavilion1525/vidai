@@ -12,10 +12,10 @@ const Investments = () => {
           <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center mx-auto mb-4">
             <ArrowUp className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+          <h1 className="text-3xl sm:text-4xl font-bold text-white-900 mb-4">
             Investments & Funding
           </h1>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-white-600 max-w-2xl mx-auto">
             Connect with VCs, angels, and funding opportunities tailored to your startup stage and sector
           </p>
         </div>

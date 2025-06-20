@@ -14,7 +14,7 @@ const PitchRoom = () => {
           <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4">
             Pitch Room
           </h1>
-          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+          <p className="text-xl text-white-300 max-w-2xl mx-auto">
             Present your startup to investors and get valuable feedback
           </p>
         </div>

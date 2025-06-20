@@ -11,10 +11,10 @@ const Registration = () => {
           <div className="w-16 h-16 bg-gradient-to-br from-lime-500 to-lime-600 rounded-xl flex items-center justify-center mx-auto mb-4">
             <FileText className="w-8 h-8 text-white" />
           </div>
-          <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+          <h1 className="text-3xl sm:text-4xl font-bold text-white-900 mb-4">
             Company Registration & Compliance
           </h1>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-white-600 max-w-2xl mx-auto">
             Incorporate your startup and manage compliance requirements
           </p>
         </div>
