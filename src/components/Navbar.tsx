@@ -61,19 +61,14 @@ const Navbar = () => {
                   <span className="ml-2 hidden sm:inline">Account</span>
                 </Button>
               </DropdownMenuTrigger>
-              <DropdownMenuContent align="end" className="w-48 bg-gray-900 border-red-900/20">
-                <DropdownMenuItem className="text-gray-300 hover:text-white hover:bg-red-900/20">
-                  <Link to="/dashboard" className="w-full">Dashboard</Link>
-                </DropdownMenuItem>
-                <DropdownMenuItem className="text-gray-300 hover:text-white hover:bg-red-900/20">
-                  <Settings className="h-4 w-4 mr-2" />
-                  Settings
-                </DropdownMenuItem>
-                <DropdownMenuItem className="text-gray-300 hover:text-white hover:bg-red-900/20">
-                  Sign Out
-                </DropdownMenuItem>
-              </DropdownMenuContent>
-            </DropdownMenu>
+                   <DropdownMenuItem className="text-gray-300 hover:text-white hover:bg-red-900/20">
+                    <Settings className="h-4 w-4 mr-2" />
+                    Settings
+                  </DropdownMenuItem>
+                     <DropdownMenuItem className="text-gray-300 hover:text-white hover:bg-red-900/20">
+                       Sign Out
+                  </DropdownMenuItem>
+             </DropdownMenu>
 
             {/* Mobile Menu */}
             <Sheet open={isOpen} onOpenChange={setIsOpen}>

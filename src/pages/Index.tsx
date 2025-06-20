@@ -236,14 +236,6 @@ const Index = () => {
           <p className="text-xl text-red-100 mb-8">
             Join thousands of entrepreneurs who are building the future with Vidhai
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" variant="outline" className="border-white text-red-600 hover:bg-white/10">
-              Create Account
-            </Button>
-            <Button size="lg" variant="outline" className="border-white text-red-600 hover:bg-white/10">
-              <Link to="/dashboard">View Dashboard</Link>
-            </Button>
-          </div>
         </div>
       </section>
     </div>

@@ -17,7 +17,6 @@ import LegalSupport from "./pages/LegalSupport";
 import HRManagement from "./pages/HRManagement";
 import Registration from "./pages/Registration";
 import CloudCredits from "./pages/CloudCredits";
-import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
 import Navbar from "./components/Navbar";
 
@@ -45,7 +44,6 @@ const App = () => (
             <Route path="/hr-management" element={<HRManagement />} />
             <Route path="/registration" element={<Registration />} />
             <Route path="/cloud-credits" element={<CloudCredits />} />
-            <Route path="/dashboard" element={<Dashboard />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </div>
